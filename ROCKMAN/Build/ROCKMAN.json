@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ROCKMAN.data.unityweb",
+"asmCodeUrl": "ROCKMAN.asm.code.unityweb",
+"asmMemoryUrl": "ROCKMAN.asm.memory.unityweb",
+"asmFrameworkUrl": "ROCKMAN.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
